@@ -1,0 +1,8 @@
+[package]
+name = "mpd_queue_len"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+mpd = "*"
+num-format = "0.4.4"
