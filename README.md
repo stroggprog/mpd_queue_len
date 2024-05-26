@@ -11,3 +11,5 @@ const HOST: &str = "romeo:6600";
 Once I wrote this, I thought about calculating how much of the queue has been played, and once you have that and the total length of the queue, you can calculate how much playtime there is remaining. However, this should all be done at once to avoid chugging resources like they're going out of fashion. I'll work on that as a separate project.
 
 I wrote this to get the playtime length of the queue for display in conky. It might have use elsewhere.
+
+This is now superceded by [mpd_queue_stats](https://github.com/stroggprog/mpd_queue_stats), a program which returns (in terms of the queue time) the length of the queue, time elapsed and time remaining.
