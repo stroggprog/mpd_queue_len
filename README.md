@@ -1,4 +1,4 @@
-#mpd_queue_len
+# mpd_queue_len
 This fetches the current queue from mpd and iterates through it, accumulating track length.
 
 It then returns the queue length as a time string (00:00:00).
