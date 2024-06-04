@@ -13,3 +13,8 @@ Once I wrote this, I thought about calculating how much of the queue has been pl
 I wrote this to get the playtime length of the queue for display in conky. It might have use elsewhere.
 
 This is now superceded by [mpd_queue_stats](https://github.com/stroggprog/mpd_queue_stats), a program which returns (in terms of the queue time) the length of the queue, time elapsed and time remaining.
+
+## See Also
+1. [mpd_queue_len](https://github.com/stroggprog/mpd_queue_len)
+2. [mpd_queue_stats](https://github.com/stroggprog/mpd_queue_stats)
+3. [mpd_percent](https://github.com/stroggprog/mpd_percent)
